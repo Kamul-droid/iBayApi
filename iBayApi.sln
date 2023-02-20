@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iBayApi", "iBayApi.csproj", "{8B403E65-9420-4D28-A19D-11F3B0A0E6CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ibay", "..\Ibay\Ibay.csproj", "{E983E9E2-5753-4CF0-8CD2-71CA19F91EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B403E65-9420-4D28-A19D-11F3B0A0E6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B403E65-9420-4D28-A19D-11F3B0A0E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B403E65-9420-4D28-A19D-11F3B0A0E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B403E65-9420-4D28-A19D-11F3B0A0E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E983E9E2-5753-4CF0-8CD2-71CA19F91EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E983E9E2-5753-4CF0-8CD2-71CA19F91EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E983E9E2-5753-4CF0-8CD2-71CA19F91EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E983E9E2-5753-4CF0-8CD2-71CA19F91EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {018DB1C3-9D89-4850-A090-371161919E60}
+	EndGlobalSection
+EndGlobal
